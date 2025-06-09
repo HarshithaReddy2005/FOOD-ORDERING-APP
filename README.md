@@ -4,7 +4,7 @@ QuickEats is a full-stack food delivery website built using ReactJS and Node.js.
 DeliDash – Food Delivery App
 Welcome to DeliDash, your modern and convenient platform for discovering and ordering mouth-watering meals from top local restaurants. Get your favorite food delivered fast, fresh, and hassle-free.
 
-🚀 Features
+ Features:
 🛍️ Easy Ordering
 Effortlessly browse a wide variety of cuisines, from local favorites to global specialties.
 
